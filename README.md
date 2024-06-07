@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Secr3t0
+-  Hi, I’m @Secr3t0
 -  current Cybersecurity student.
 -  Passionate for reverse engine and understand how things works.
 -  Languages - PT/BR, EN-US
