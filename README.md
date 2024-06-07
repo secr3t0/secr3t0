@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Secr3t0
--  current Cybersec student
-
+-  current Cybersecurity student.
+-  Passionate for reverse engine and understand how things works.
+-  Languages - PT/BR, EN-US
+-  Programming Languages - Python, JS, C#,Bash.
