@@ -1,12 +1,31 @@
-🔐 Cybersecurity & Ethical Hacking
-I am particularly interested in:
+# Hey there! 👋  
 
-✔️ Penetration Testing (Red Team) – Offensive security strategies and exploitation techniques
+## 🛡️ About Me  
+I'm a cybersecurity enthusiast and security engineer with a strong passion for ethical hacking, penetration testing, and offensive security. I thrive on solving complex challenges, breaking systems (ethically, of course), and continuously expanding my skill set through hands-on labs, CTFs, and security research.  
 
-✔️ CTF Challenges – Capture The Flag competitions to enhance problem-solving and hacking skills
+I enjoy exploring vulnerabilities, understanding attack vectors, and developing security tools to enhance my knowledge and contribute to the cybersecurity community.  
 
-✔️ Network Security – Exploring vulnerabilities and improving defense mechanisms
+## 🚀 Technical Skills  
 
-✔️ Reverse Engineering & Cryptography – Understanding exploits and encryption methods
+### 🖥️ Programming & Scripting  
+🔹 **Python** 🐍 – Automation, scripting, and security tool development  
+🔹 **C++** ⚡ – Low-level programming and exploit development  
+🔹 **JavaScript, HTML, CSS** 🌐 – Web security and penetration testing  
 
-📌 I frequently participate in CTFs, security challenges, and hands-on labs to sharpen my skills.
+### 🔐 Cybersecurity & Offensive Security  
+✔️ **Penetration Testing & Ethical Hacking** – Red Team tactics, exploit dev, and privilege escalation  
+✔️ **CTF & Bug Bounties** – Practicing real-world attack scenarios  
+✔️ **Network & Web Security** – Identifying and mitigating vulnerabilities  
+✔️ **Reverse Engineering & Malware Analysis** – Breaking down binaries and dissecting threats  
+✔️ **Cryptography & Exploitation** – Understanding encryption flaws and attack methodologies  
+
+## 🎯 Current Focus  
+⚡ Deepening my knowledge in exploit development and vulnerability research  
+⚡ Studying advanced Red Team techniques and evasion methods  
+⚡ Contributing to open-source security projects  
+
+## 📫 Get in Touch  
+Want to collaborate, discuss security topics, or just exchange ideas? Feel free to reach out!  
+
+📧 Email: agrandrade01@outlook.com  
+🔗 LinkedIn: [linkedin.com/in/augustoribeiro](#)  
